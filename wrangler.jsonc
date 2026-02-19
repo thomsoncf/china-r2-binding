@@ -16,7 +16,7 @@
 	"r2_buckets": [
 		{
 			"binding": "R2_BUCKET",
-			"bucket_name": "china-express-r2-worker-binding"
+			"bucket_name": "r2-apac"
 		}
 	],
 	"preview_urls": false,
