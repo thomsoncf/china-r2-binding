@@ -25,6 +25,10 @@
 		{
 			"pattern": "china-r2-binding.demo.cftest6.cn",
 			"custom_domain": true
+		},
+		{
+			"pattern": "no-traffic-steering-china-r2-binding.demo.cftest7.com",
+			"custom_domain": true
 		}
 	]
 	/**
