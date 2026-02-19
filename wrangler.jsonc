@@ -12,6 +12,20 @@
 	},
 	"compatibility_flags": [
 		"nodejs_compat"
+	],
+	"r2_buckets": [
+		{
+			"binding": "R2_BUCKET",
+			"bucket_name": "china-express-r2-worker-binding"
+		}
+	],
+	"preview_urls": false,
+	"workers_dev": false,
+	"routes":[
+		{
+			"pattern": "china-r2-binding.demo.cftest6.cn",
+			"custom_domain": true
+		}
 	]
 	/**
 	 * Smart Placement
