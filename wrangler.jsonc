@@ -27,7 +27,7 @@
 			"custom_domain": true
 		},
 		{
-			"pattern": "no-traffic-steering-china-r2-binding.demo.cftest7.com",
+			"pattern": "no-cn-r2-binding.demo.cloudgobbler.com",
 			"custom_domain": true
 		}
 	]
